@@ -1,10 +1,10 @@
-* 📖 Introduction *
+**📖 Introduction**
 This project analyzes a dataset related to obesity and various influencing factors. The aim is to understand the data and build a predictive model to classify the frequency of physical activity (FAF) of individuals based on other features.
 
-* 📊 Dataset *
+**📊 Dataset** 
 The dataset used is ObesityDataSet_raw_and_data_sinthetic.csv, containing 2111 entries and 17 columns including Gender, Age, Height, Weight, and other lifestyle and health-related attributes.
 
-🛠 Data Preprocessing
+**🛠 Data Preprocessing**
 Data preprocessing steps include:
 
 Loading the Dataset: The dataset is loaded using Pandas.
